@@ -1,5 +1,7 @@
 <h2 align="left">About me</h2>
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=435&lines=hey+what's+up%2C+my+name+is+Lucas+Oliveira;Multiplatform+Sofware+Development+Student" alt="Typing SVG" /></a>
 ###
 
 <p align="left"></p>
